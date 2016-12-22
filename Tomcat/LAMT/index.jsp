@@ -14,7 +14,7 @@
 </head>
 <body>
         <h1>
-        	Welcome to IBM LAB Cagliari Cloud Development portal.
+        	Welcome to IBM LAB Cagliari Cloud Development portal v1.
         </h1>
         <p>
         Acme Inc. offers expert counseling in a wide range of fields. The following table lists the details of counselor in your area.
